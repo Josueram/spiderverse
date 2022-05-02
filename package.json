@@ -1,0 +1,18 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josueram/spiderverse.git"
+  },
+  "author": "Josué Ramírez <josueramirez0110@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
